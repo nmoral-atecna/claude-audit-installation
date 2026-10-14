@@ -1,0 +1,14 @@
+{
+  "name": "outils-dev",
+  "description": "Plugins Claude Code d'analyse et d'amélioration de projet, hors phase d'implémentation.",
+  "owner": {
+    "name": "Nicolas Moral"
+  },
+  "plugins": [
+    {
+      "name": "onboarding",
+      "source": "./plugins/onboarding",
+      "description": "Audit de la procédure d'installation d'un projet PHP/Docker, comme un nouveau développeur (/onboarding:check-install)."
+    }
+  ]
+}

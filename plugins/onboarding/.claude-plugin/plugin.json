@@ -1,0 +1,7 @@
+{
+  "name": "onboarding",
+  "description": "Vérifie qu'un nouveau développeur peut installer un projet PHP/Docker en suivant la documentation, depuis un clone vierge et isolé (macOS / Ubuntu).",
+  "version": "0.1.0",
+  "author": { "name": "Nicolas Moral" },
+  "keywords": ["onboarding", "installation", "docker", "php", "symfony"]
+}
